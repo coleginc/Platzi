@@ -1,0 +1,17 @@
+[2021-04-16 21:14:17.917] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-04-16 21:14:17.917] [remoteagent] [info] Extension host agent started.
+[2021-04-16 21:14:18.691] [remoteagent] [info] [::ffff:172.29.224.1][351e6b3a][ManagementConnection] New connection established.
+[2021-04-16 21:14:18.693] [remoteagent] [info] [::ffff:172.29.224.1][ce17871d][ExtensionHostConnection] New connection established.
+[2021-04-16 21:14:18.920] [remoteagent] [info] [::ffff:172.29.224.1][ce17871d][ExtensionHostConnection] <137> Launched Extension Host Process.
+[2021-04-16 21:14:33.875] [remoteagent] [warning] [File Watcher (chokidar)] Error: Circular symlink detected: "/mnt/c/Users/User/AppData/Local/Datos de programa" points to "/mnt/c/Users/User/AppData/Local"
+[2021-04-16 22:06:52.485] [remoteagent] [info] [::ffff:172.29.224.1][351e6b3a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-04-16 22:06:53.500] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds

@@ -1,0 +1,38 @@
+[2021-04-17 14:25:56.862] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-04-17 14:25:56.862] [remoteagent] [info] Extension host agent started.
+[2021-04-17 14:25:58.017] [remoteagent] [info] [::ffff:172.29.224.1][415001f2][ManagementConnection] New connection established.
+[2021-04-17 14:25:58.018] [remoteagent] [info] [::ffff:172.29.224.1][e901a50d][ExtensionHostConnection] New connection established.
+[2021-04-17 14:25:58.599] [remoteagent] [info] [::ffff:172.29.224.1][e901a50d][ExtensionHostConnection] <154> Launched Extension Host Process.
+[2021-04-17 15:48:51.890] [remoteagent] [info] Installing extension: finitewisdom.identifize
+[2021-04-17 15:48:54.271] [remoteagent] [info] Downloaded extension: finitewisdom.identifize undefined
+[2021-04-17 15:48:54.594] [remoteagent] [info] Extracted extension to /home/brian8a/.vscode-server/extensions/.f182fa35-94fc-44f8-8c3c-bcc4d6df8ad6: finitewisdom.identifize
+[2021-04-17 15:48:54.788] [remoteagent] [info] Renamed to /home/brian8a/.vscode-server/extensions/finitewisdom.identifize-1.0.2
+[2021-04-17 15:48:54.790] [remoteagent] [info] Installation completed. finitewisdom.identifize
+[2021-04-17 15:48:54.911] [remoteagent] [info] Extensions installed successfully: finitewisdom.identifize
+[2021-04-17 17:38:37.373] [remoteagent] [info] [::ffff:172.29.224.1][415001f2][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-04-17 17:39:20.060] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-04-17 19:55:04.656] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-04-17 19:55:09.828] [remoteagent] [info] [::ffff:172.29.224.1][415001f2][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-04-17 19:55:10.983] [remoteagent] [info] [::ffff:172.29.224.1][415001f2][ManagementConnection] The client has reconnected.
+[2021-04-17 19:55:11.750] [remoteagent] [info] [::ffff:172.29.224.1][e901a50d][ExtensionHostConnection] The client has reconnected.
+[2021-04-17 19:55:24.037] [remoteagent] [info] [::ffff:172.29.224.1][e901a50d][ExtensionHostConnection] The client has reconnected.
+[2021-04-17 19:55:44.541] [remoteagent] [info] [::ffff:172.29.224.1][e901a50d][ExtensionHostConnection] The client has reconnected.
+[2021-04-17 19:56:04.820] [remoteagent] [info] [::ffff:172.29.224.1][e901a50d][ExtensionHostConnection] The client has reconnected.
+[2021-04-17 19:56:25.012] [remoteagent] [info] [::ffff:172.29.224.1][e901a50d][ExtensionHostConnection] The client has reconnected.
+[2021-04-17 19:56:45.217] [remoteagent] [info] [::ffff:172.29.224.1][e901a50d][ExtensionHostConnection] The client has reconnected.
+[2021-04-17 21:03:17.874] [remoteagent] [info] [::ffff:172.29.224.1][415001f2][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-04-17 21:17:32.678] [remoteagent] [info] [::ffff:172.29.224.1][415001f2][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-04-17 21:17:32.679] [remoteagent] [info] [::ffff:172.29.224.1][e901a50d][ExtensionHostConnection] The client has reconnected.
+[2021-04-17 21:17:34.020] [remoteagent] [info] [::ffff:172.29.224.1][415001f2][ManagementConnection] The client has reconnected.
+[2021-04-17 22:52:54.935] [remoteagent] [info] [::ffff:172.29.224.1][415001f2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-04-17 22:53:02.429] [remoteagent] [info] [::ffff:172.29.224.1][e901a50d][ExtensionHostConnection] <154> Extension Host Process exited with code: 0, signal: null.
+[2021-04-17 22:53:02.429] [remoteagent] [info] Last EH closed, waiting before shutting down

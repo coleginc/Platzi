@@ -1,0 +1,199 @@
+Looking for git in: git
+Using git 2.25.1 from git
+Opening repository for path='/home/brian8a' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/brian8a/.bash_history' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/brian8a/.bash_logout' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/brian8a/.bashrc' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/brian8a/.cache' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/brian8a/.config' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/brian8a/.gitconfig' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/brian8a/.landscape' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/brian8a/.local' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/brian8a/.motd_shown' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/brian8a/.npm' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git rev-parse --git-dir
+Open repository: /home/brian8a/.oh-my-zsh
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/brian8a/.oh-my-zsh/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+Opening repository for path='/home/brian8a/.profile' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/brian8a/.ssh' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/brian8a/.sudo_as_admin_successful' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/brian8a/.vscode-server' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/brian8a/.wget-hsts' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/brian8a/.zcompdump' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/brian8a/.zcompdump-DESKTOP-NOUA3KS-5.8' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/brian8a/.zsh_history' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/brian8a/.zshrc' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/brian8a/proyectos' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git rev-parse --git-dir
+Open repository: /home/brian8a/proyectos/coleg/.ssh/prothesis-design-app
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/brian8a/proyectos/coleg/.ssh/prothesis-design-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/brian8a/proyectos/coleg/.ssh/prothesis-design-app/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :.vscode/launch.json
+> git ls-files --stage -- /home/brian8a/proyectos/coleg/.ssh/prothesis-design-app/.vscode/launch.json
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+Opening repository for path='/home/brian8a/proyectos/coleg/.ssh' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git show --textconv :TODO
+> git ls-files --stage -- /home/brian8a/proyectos/coleg/.ssh/prothesis-design-app/TODO
+> git cat-file -s f510d445f72985ebfce33479a16bbc04ebfa63bb
+> git show --textconv :tsconfig.json
+> git ls-files --stage -- /home/brian8a/proyectos/coleg/.ssh/prothesis-design-app/tsconfig.json
+> git cat-file -s 2a6cf230648ea585d3e1f8418c1d41e8bfa94abd
+Opening repository for path='/home/brian8a/proyectos/coleg/.ssh' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/pages/Home.tsx
+> git ls-files --stage -- /home/brian8a/proyectos/coleg/.ssh/prothesis-design-app/src/pages/Home.tsx
+> git cat-file -s ec5bb09be6d03751ac1ea530e05808028d78aa84
+> git check-ignore -v -z --stdin
+> git show --textconv :src/slices/designApp.ts
+> git ls-files --stage -- /home/brian8a/proyectos/coleg/.ssh/prothesis-design-app/src/slices/designApp.ts
+> git cat-file -s 4d1bee43bdeeaaa0e84e7673a1156472b13fd782
+> git show --textconv :src/index.css
+> git ls-files --stage -- /home/brian8a/proyectos/coleg/.ssh/prothesis-design-app/src/index.css
+> git cat-file -s efd14cae8cecd9b6ca237c100306e9d260b1b33a
+> git show --textconv :src/funciones.ts
+> git ls-files --stage -- /home/brian8a/proyectos/coleg/.ssh/prothesis-design-app/src/funciones.ts
+> git cat-file -s 5489fc34bf9f9bafae415d722dfaf28540ae33de
+> git show --textconv :src/slices/index.ts
+> git ls-files --stage -- /home/brian8a/proyectos/coleg/.ssh/prothesis-design-app/src/slices/index.ts
+> git cat-file -s c70dffe0e8e67ec773e177c4ab7cbaf0755a9399
+> git show --textconv :src/App.tsx
+> git ls-files --stage -- /home/brian8a/proyectos/coleg/.ssh/prothesis-design-app/src/App.tsx
+> git cat-file -s 0fa916196358e7bea3d7a064cd6de23095000bcf
+Opening repository for path='/home/brian8a' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/brian8a' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:.babelrc
+> git ls-tree -l HEAD -- /home/brian8a/proyectos/coleg/.ssh/prothesis-design-app/.babelrc
+> git show --textconv HEAD:.prettierrc
+> git ls-tree -l HEAD -- /home/brian8a/proyectos/coleg/.ssh/prothesis-design-app/.prettierrc
+> git show --textconv HEAD:TODO
+> git ls-tree -l HEAD -- /home/brian8a/proyectos/coleg/.ssh/prothesis-design-app/TODO
+> git show --textconv HEAD:.vscode/launch.json
+> git ls-tree -l HEAD -- /home/brian8a/proyectos/coleg/.ssh/prothesis-design-app/.vscode/launch.json
+> git show --textconv HEAD:requirements/TODO.md
+> git ls-tree -l HEAD -- /home/brian8a/proyectos/coleg/.ssh/prothesis-design-app/requirements/TODO.md
+> git show --textconv HEAD:src/funciones.ts
+> git ls-tree -l HEAD -- /home/brian8a/proyectos/coleg/.ssh/prothesis-design-app/src/funciones.ts
+> git show --textconv HEAD:src/index.css
+> git ls-tree -l HEAD -- /home/brian8a/proyectos/coleg/.ssh/prothesis-design-app/src/index.css
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:src/assets/svgEditor/svgController.css
+> git ls-tree -l HEAD -- /home/brian8a/proyectos/coleg/.ssh/prothesis-design-app/src/assets/svgEditor/svgController.css
+> git show --textconv HEAD:src/assets/svgEditor/svgNormal.ts
+> git ls-tree -l HEAD -- /home/brian8a/proyectos/coleg/.ssh/prothesis-design-app/src/assets/svgEditor/svgNormal.ts
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:src/components/Sliders/Sliders.jsx
+> git ls-tree -l HEAD -- /home/brian8a/proyectos/coleg/.ssh/prothesis-design-app/src/components/Sliders/Sliders.jsx
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:src/pages/Contact.tsx
+> git ls-tree -l HEAD -- /home/brian8a/proyectos/coleg/.ssh/prothesis-design-app/src/pages/Contact.tsx
+> git show --textconv HEAD:.babelrc
+> git ls-tree -l HEAD -- /home/brian8a/proyectos/coleg/.ssh/prothesis-design-app/.babelrc

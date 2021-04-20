@@ -1,0 +1,26 @@
+[2021-04-18 14:53:36.465] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-04-18 14:53:36.465] [remoteagent] [info] Extension host agent started.
+[2021-04-18 14:53:38.509] [remoteagent] [info] [::ffff:172.25.32.1][2fe137c9][ManagementConnection] New connection established.
+[2021-04-18 14:53:38.511] [remoteagent] [info] [::ffff:172.25.32.1][d1418340][ExtensionHostConnection] New connection established.
+[2021-04-18 14:53:38.706] [remoteagent] [info] [::ffff:172.25.32.1][d1418340][ExtensionHostConnection] <180> Launched Extension Host Process.
+[2021-04-18 17:02:59.659] [remoteagent] [info] [::ffff:172.25.32.1][2fe137c9][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-04-18 17:03:06.655] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-04-18 17:37:10.587] [remoteagent] [info] [::ffff:172.25.32.1][2fe137c9][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-04-18 17:37:10.588] [remoteagent] [info] [::ffff:172.25.32.1][2fe137c9][ManagementConnection] The client has reconnected.
+[2021-04-18 17:37:10.634] [remoteagent] [info] [::ffff:172.25.32.1][d1418340][ExtensionHostConnection] The client has reconnected.
+[2021-04-18 20:52:28.051] [remoteagent] [info] [::ffff:172.25.32.1][2fe137c9][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-04-18 21:40:23.038] [remoteagent] [info] [::ffff:172.25.32.1][2fe137c9][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-04-18 21:40:23.038] [remoteagent] [info] [::ffff:172.25.32.1][2fe137c9][ManagementConnection] The client has reconnected.
+[2021-04-18 21:40:23.058] [remoteagent] [info] [::ffff:172.25.32.1][d1418340][ExtensionHostConnection] The client has reconnected.
+[2021-04-19 03:46:14.334] [remoteagent] [info] [::ffff:172.25.32.1][2fe137c9][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-04-19 03:46:21.249] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-04-19 03:46:57.987] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds

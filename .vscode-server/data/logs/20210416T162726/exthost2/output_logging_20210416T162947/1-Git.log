@@ -1,0 +1,57 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/brian8a/personalproyects/coleg.co
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :calendario/index.html
+> git ls-files --stage -- /home/brian8a/personalproyects/coleg.co/calendario/index.html
+> git check-ignore -v -z --stdin
+> git show --textconv :formulario/index.html
+> git ls-files --stage -- /home/brian8a/personalproyects/coleg.co/formulario/index.html
+> git show --textconv :formulario/index.html
+> git ls-files --stage -- /home/brian8a/personalproyects/coleg.co/formulario/index.html
+> git show --textconv :style.css
+> git ls-files --stage -- /home/brian8a/personalproyects/coleg.co/style.css
+> git show --textconv :formulario/index.html
+> git ls-files --stage -- /home/brian8a/personalproyects/coleg.co/formulario/index.html
+> git show --textconv :video/index.html
+> git ls-files --stage -- /home/brian8a/personalproyects/coleg.co/video/index.html
+> git check-ignore -v -z --stdin
+> git show --textconv :Imagenes/index.html
+> git ls-files --stage -- /home/brian8a/personalproyects/coleg.co/Imagenes/index.html
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :boton/index.html
+> git ls-files --stage -- /home/brian8a/personalproyects/coleg.co/boton/index.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

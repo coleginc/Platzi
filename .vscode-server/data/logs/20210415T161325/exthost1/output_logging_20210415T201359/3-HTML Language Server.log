@@ -1,0 +1,24 @@
+[Error - 8:14:00 PM] Error while computing completions for file:///home/brian8a/personalproyects/coleg.co/video/index.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at Object.e.create (/home/brian8a/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:4438)
+    at /home/brian8a/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:114597
+    at e.<anonymous> (/home/brian8a/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:114618)
+    at /home/brian8a/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:113468
+    at Object.next (/home/brian8a/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:113573)
+    at /home/brian8a/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:112509
+    at new Promise (<anonymous>)
+    at V (/home/brian8a/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:112254)
+    at e.computeCompletions (/home/brian8a/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:113909)
+    at e.<anonymous> (/home/brian8a/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:118045)
+[Error - 8:14:00 PM] Error while computing completions for file:///home/brian8a/personalproyects/coleg.co/video/index.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at Object.e.create (/home/brian8a/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:4438)
+    at /home/brian8a/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:114597
+    at e.<anonymous> (/home/brian8a/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:114618)
+    at /home/brian8a/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:113468
+    at Object.next (/home/brian8a/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:113573)
+    at /home/brian8a/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:112509
+    at new Promise (<anonymous>)
+    at V (/home/brian8a/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:112254)
+    at e.computeCompletions (/home/brian8a/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:113909)
+    at e.<anonymous> (/home/brian8a/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:118045)
